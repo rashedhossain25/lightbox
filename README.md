@@ -1,2 +1,1 @@
-# lightbox
-lightbox js plugin
+
